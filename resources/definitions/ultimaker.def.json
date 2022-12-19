@@ -1,11 +1,11 @@
 {
     "version": 2,
-    "name": "Ultimaker",
+    "name": "Dragon Gaurd",
     "inherits": "fdmprinter",
     "metadata":
     {
         "visible": false,
-        "author": "Ultimaker",
+        "author": "Dragon Gaurd",
         "manufacturer": "Ultimaker B.V.",
         "exclude_materials": [
             "generic_hips",
